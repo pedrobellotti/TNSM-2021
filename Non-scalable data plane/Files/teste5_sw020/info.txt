@@ -1,0 +1,8 @@
+Metodo: SW->HW
+Seed: 50
+Quant: 2500
+Duracao(min): 5.000000
+Duracao(max): 100.000000
+Banda(media): 1024.000000
+TempoIni(media): 0.200000
+MaiorDuracao(segundos): 601.460013
