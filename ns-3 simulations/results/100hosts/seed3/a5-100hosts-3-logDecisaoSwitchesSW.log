@@ -1,0 +1,134 @@
+ TimeSec SwAtivosAntes AvgCPULoad Decisão SwAtivosDepois
+  15.000        1        0.343    Manteve        1
+  30.000        1        0.789    Manteve        1
+  45.000        1        1.000    Aumenta        2
+  60.000        2        1.025    Aumenta        3
+  75.000        3        0.661    Manteve        3
+  90.000        3        0.739    Manteve        3
+ 105.000        3        0.719    Manteve        3
+ 120.000        3        0.764    Manteve        3
+ 135.000        3        0.657    Manteve        3
+ 150.000        3        0.669    Manteve        3
+ 165.000        3        0.600    Manteve        3
+ 180.000        3        0.652    Manteve        3
+ 195.000        3        0.571    Manteve        3
+ 210.000        3        0.642    Manteve        3
+ 225.000        3        0.535    Manteve        3
+ 240.000        3        0.638    Manteve        3
+ 255.000        3        0.586    Manteve        3
+ 270.000        3        0.652    Manteve        3
+ 285.000        3        0.573    Manteve        3
+ 300.000        3        0.618    Manteve        3
+ 315.000        3        0.558    Manteve        3
+ 330.000        3        0.611    Manteve        3
+ 345.000        3        0.589    Manteve        3
+ 360.000        3        0.647    Manteve        3
+ 375.000        3        0.602    Manteve        3
+ 390.000        3        0.634    Manteve        3
+ 405.000        3        0.575    Manteve        3
+ 420.000        3        0.678    Manteve        3
+ 435.000        3        0.571    Manteve        3
+ 450.000        3        0.643    Manteve        3
+ 465.000        3        0.512    Diminui        2
+ 480.000        2        0.796    Manteve        2
+ 495.000        2        0.559    Manteve        2
+ 510.000        2        0.501    Manteve        2
+ 525.000        2        0.274    Diminui        1
+ 540.000        1        0.349    Manteve        1
+ 555.000        1        0.076    Manteve        1
+ 570.000        1        0.039    Manteve        1
+ 585.000        1        0.000    Manteve        1
+ 600.000        1        0.000    Manteve        1
+ 615.000        1        0.000    Manteve        1
+ 630.000        1        0.000    Manteve        1
+ 645.000        1        0.000    Manteve        1
+ 660.000        1        0.000    Manteve        1
+ 675.000        1        0.000    Manteve        1
+ 690.000        1        0.000    Manteve        1
+ 705.000        1        0.000    Manteve        1
+ 720.000        1        0.000    Manteve        1
+ 735.000        1        0.000    Manteve        1
+ 750.000        1        0.000    Manteve        1
+ 765.000        1        0.000    Manteve        1
+ 780.000        1        0.000    Manteve        1
+ 795.000        1        0.000    Manteve        1
+ 810.000        1        0.000    Manteve        1
+ 825.000        1        0.000    Manteve        1
+ 840.000        1        0.000    Manteve        1
+ 855.000        1        0.000    Manteve        1
+ 870.000        1        0.000    Manteve        1
+ 885.000        1        0.000    Manteve        1
+ 900.000        1        0.000    Manteve        1
+ 915.000        1        0.000    Manteve        1
+ 930.000        1        0.000    Manteve        1
+ 945.000        1        0.000    Manteve        1
+ 960.000        1        0.000    Manteve        1
+ 975.000        1        0.000    Manteve        1
+ 990.000        1        0.000    Manteve        1
+1005.000        1        0.000    Manteve        1
+1020.000        1        0.000    Manteve        1
+1035.000        1        0.000    Manteve        1
+1050.000        1        0.000    Manteve        1
+1065.000        1        0.000    Manteve        1
+1080.000        1        0.000    Manteve        1
+1095.000        1        0.000    Manteve        1
+1110.000        1        0.000    Manteve        1
+1125.000        1        0.000    Manteve        1
+1140.000        1        0.000    Manteve        1
+1155.000        1        0.000    Manteve        1
+1170.000        1        0.000    Manteve        1
+1185.000        1        0.000    Manteve        1
+1200.000        1        0.000    Manteve        1
+1215.000        1        0.000    Manteve        1
+1230.000        1        0.000    Manteve        1
+1245.000        1        0.000    Manteve        1
+1260.000        1        0.000    Manteve        1
+1275.000        1        0.000    Manteve        1
+1290.000        1        0.000    Manteve        1
+1305.000        1        0.000    Manteve        1
+1320.000        1        0.000    Manteve        1
+1335.000        1        0.000    Manteve        1
+1350.000        1        0.000    Manteve        1
+1365.000        1        0.000    Manteve        1
+1380.000        1        0.000    Manteve        1
+1395.000        1        0.000    Manteve        1
+1410.000        1        0.000    Manteve        1
+1425.000        1        0.000    Manteve        1
+1440.000        1        0.000    Manteve        1
+1455.000        1        0.000    Manteve        1
+1470.000        1        0.000    Manteve        1
+1485.000        1        0.000    Manteve        1
+1500.000        1        0.000    Manteve        1
+1515.000        1        0.000    Manteve        1
+1530.000        1        0.000    Manteve        1
+1545.000        1        0.000    Manteve        1
+1560.000        1        0.000    Manteve        1
+1575.000        1        0.000    Manteve        1
+1590.000        1        0.000    Manteve        1
+1605.000        1        0.000    Manteve        1
+1620.000        1        0.000    Manteve        1
+1635.000        1        0.000    Manteve        1
+1650.000        1        0.000    Manteve        1
+1665.000        1        0.000    Manteve        1
+1680.000        1        0.000    Manteve        1
+1695.000        1        0.000    Manteve        1
+1710.000        1        0.000    Manteve        1
+1725.000        1        0.000    Manteve        1
+1740.000        1        0.000    Manteve        1
+1755.000        1        0.000    Manteve        1
+1770.000        1        0.000    Manteve        1
+1785.000        1        0.000    Manteve        1
+1800.000        1        0.000    Manteve        1
+1815.000        1        0.000    Manteve        1
+1830.000        1        0.000    Manteve        1
+1845.000        1        0.000    Manteve        1
+1860.000        1        0.000    Manteve        1
+1875.000        1        0.000    Manteve        1
+1890.000        1        0.000    Manteve        1
+1905.000        1        0.000    Manteve        1
+1920.000        1        0.000    Manteve        1
+1935.000        1        0.000    Manteve        1
+1950.000        1        0.000    Manteve        1
+1965.000        1        0.000    Manteve        1
+1980.000        1        0.000    Manteve        1
+1995.000        1        0.000    Manteve        1
