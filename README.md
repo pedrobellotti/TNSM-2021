@@ -1,5 +1,3 @@
-# TNSM 2021
-
 # Virtualizing Packet-Processing Network Functions over Heterogeneous OpenFlow Switches
 _João Victor G. de Oliveira, Pedro C. P. Bellotti, Roberto M. de Oliveira, Alex B. Vieira, Luciano J. Chaves_
 
